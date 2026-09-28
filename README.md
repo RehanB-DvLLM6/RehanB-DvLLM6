@@ -1,6 +1,5 @@
-<img width="1472" height="643" alt="Your paragraph text (1)" src="https://github.com/user-attachments/assets/decfd6ae-4eef-409d-a542-6a767c0e674a" />
-
-
+# Konnichiwa! This is Rehan B
+Full Stack Automation Developer<br>CS Undergrad @ UMT,Lahore
 ## Tech Stack
 
 ### Languages
