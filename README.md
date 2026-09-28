@@ -7,25 +7,30 @@
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp" height="56" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=py" height="56" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=html" height="56" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="56" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" height="56" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="56" alt="SQL" />
+</p>
 
-**Tools & Platforms**
+### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-[![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)](https://www.cisco.com/)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-![JetBrains](https://img.shields.io/badge/JetBrains-FE315D?style=flat&logo=jetbrains&logoColor=white)
-[![SSMS 22](https://img.shields.io/badge/SSMS_22-000080?style=flat&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="56" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="56" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="56" alt="WordPress" />
+  <img src="https://skillicons.dev/icons?i=linux" height="56" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="56" alt="PostgreSQL" />
+   <img src="icons/cisco.svg" height="56" alt="Cisco" />
+  <img src="icons/linuxmint.svg" height="56" alt="Linux Mint" />
+  <img src="icons/jetbrains.svg" height="56" alt="JetBrains" />
+  <img src="icons/ssms.svg" height="56" alt="SSMS" />
+</p>
 
 ---
 
