@@ -26,10 +26,10 @@
   <img src="https://skillicons.dev/icons?i=wordpress" height="56" alt="WordPress" />
   <img src="https://skillicons.dev/icons?i=linux" height="56" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=postgres" height="56" alt="PostgreSQL" />
-   <img src="icons/cisco.svg" height="56" alt="Cisco" />
-  <img src="icons/linuxmint.svg" height="56" alt="Linux Mint" />
-  <img src="icons/jetbrains.svg" height="56" alt="JetBrains" />
-  <img src="icons/ssms.svg" height="56" alt="SSMS" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/icons/cisco.svg" height="56" alt="Cisco" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/icons/linuxmint.svg" height="56" alt="Linux Mint" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/icons/jetbrains.svg" height="56" alt="JetBrains" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/icons/ssms.svg" height="56" alt="SSMS" />
 </p>
 
 ---
