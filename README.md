@@ -25,9 +25,9 @@
   <img src="https://skillicons.dev/icons?i=git" height="56" alt="Git" />
   <img src="https://skillicons.dev/icons?i=vscode" height="56" alt="VS Code" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="56" alt="WordPress" />
-  <img src="https://raw.githubusercontent.com/RehanB-DvLLM6/RehanB-DvLLM6/main/cuda.svg" height="56" alt="NVIDIA" />
+  <img src="https://raw.githubusercontent.com/RehanB-DvLLM6/RehanB-DvLLM6/main/cuda.svg" height="48" alt="NVIDIA" />
   <img src="https://skillicons.dev/icons?i=ubuntu" height="56" alt="Ubuntu" />
-  <img src="https://raw.githubusercontent.com/RehanB-DvLLM6/RehanB-DvLLM6/main/streamlit.svg" height="56" alt="Streamlit" />
+  <img src="https://raw.githubusercontent.com/RehanB-DvLLM6/RehanB-DvLLM6/main/streamlit.svg" height="48" alt="Streamlit" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="56" alt="Android Studio" />
   <img src="https://skillicons.dev/icons?i=postgres" height="56" alt="PostgreSQL" />
   <img src="https://raw.githubusercontent.com/RehanB-DvLLM6/RehanB-DvLLM6/main/cisco.svg" height="48" alt="Cisco" />
