@@ -1,9 +1,5 @@
-# Hi ! This Rehan B
-**Full Stack Automation Developer and Network Engineering Enthusiast**
+<img width="1472" height="643" alt="Your paragraph text (1)" src="https://github.com/user-attachments/assets/decfd6ae-4eef-409d-a542-6a767c0e674a" />
 
-*Undergraduate Computer Science Student @ UMT, Lahore*
-
----
 
 ## Tech Stack
 
