@@ -31,7 +31,7 @@
   <img src="https://raw.githubusercontent.com/RehanB-DvLLM6/RehanB-DvLLM6/main/cisco.svg" height="48" alt="Cisco" />
   <img src="https://raw.githubusercontent.com/RehanB-DvLLM6/RehanB-DvLLM6/main/linuxmint.svg" height="48" alt="Linux Mint" />
   <img src="https://raw.githubusercontent.com/RehanB-DvLLM6/RehanB-DvLLM6/main/jetbrains.svg" height="48" alt="JetBrains" />
-    <img src="https://raw.githubusercontent.com/RehanB-DvLLM6/RehanB-DvLLM6/main/jetpackcompose.svg" height="56" alt="Jetpack Compose" />
+  <img src="https://raw.githubusercontent.com/RehanB-DvLLM6/RehanB-DvLLM6/main/jetpackcompose.svg" height="48" alt="Jetpack Compose" />
   <img src="https://raw.githubusercontent.com/RehanB-DvLLM6/RehanB-DvLLM6/main/ssms.svg" height="48" alt="SSMS" />
 </p>
 
