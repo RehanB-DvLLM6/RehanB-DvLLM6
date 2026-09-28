@@ -12,6 +12,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=cpp" height="56" alt="C++" />
   <img src="https://skillicons.dev/icons?i=py" height="56" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=kotlin" height="56" alt="Kotlin" />
   <img src="https://skillicons.dev/icons?i=html" height="56" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" height="56" alt="CSS3" />
   <img src="https://skillicons.dev/icons?i=js" height="56" alt="JavaScript" />
@@ -25,11 +26,13 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="56" alt="VS Code" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="56" alt="WordPress" />
   <img src="https://skillicons.dev/icons?i=linux" height="56" alt="Linux" />
+    <img src="https://skillicons.dev/icons?i=androidstudio" height="56" alt="Android Studio" />
   <img src="https://skillicons.dev/icons?i=postgres" height="56" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/icons/cisco.svg" height="56" alt="Cisco" />
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/icons/linuxmint.svg" height="56" alt="Linux Mint" />
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/icons/jetbrains.svg" height="56" alt="JetBrains" />
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/icons/ssms.svg" height="56" alt="SSMS" />
+  <img src="https://raw.githubusercontent.com/RehanB-DvLLM6/RehanB-DvLLM6/main/cisco.svg" height="48" alt="Cisco" />
+  <img src="https://raw.githubusercontent.com/RehanB-DvLLM6/RehanB-DvLLM6/main/linuxmint.svg" height="48" alt="Linux Mint" />
+  <img src="https://raw.githubusercontent.com/RehanB-DvLLM6/RehanB-DvLLM6/main/jetbrains.svg" height="48" alt="JetBrains" />
+    <img src="https://raw.githubusercontent.com/RehanB-DvLLM6/RehanB-DvLLM6/main/jetpackcompose.svg" height="56" alt="Jetpack Compose" />
+  <img src="https://raw.githubusercontent.com/RehanB-DvLLM6/RehanB-DvLLM6/main/ssms.svg" height="48" alt="SSMS" />
 </p>
 
 ---
